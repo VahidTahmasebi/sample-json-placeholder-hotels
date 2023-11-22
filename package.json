@@ -1,0 +1,15 @@
+{
+  "name": "sample-json-placeholder-hotels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "vaeid_t",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
